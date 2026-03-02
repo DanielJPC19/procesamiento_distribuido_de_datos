@@ -1,0 +1,17 @@
+# Entornos virtuales
+env/
+venv/
+.venv/
+venv_lab_s4/
+ENV/
+
+# Archivos Python compilados
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
+
+# Archivos de configuración local
+.env
+dev-prodatos-lab4-771a915d2031.json
